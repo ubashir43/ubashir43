@@ -125,21 +125,6 @@ timeline
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ubashir43&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubashir43&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ubashir43&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 📬 Connect & Collaborate
 
 I welcome collaborations with academic researchers, transport geographers, logistics tech founders, and enterprise TMS engineering teams:
